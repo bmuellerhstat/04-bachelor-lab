@@ -71,7 +71,7 @@ Take a look at `spec/fixtures/contestants.json`. This is the data that the spec 
 
 [JSON](http://json.org/), or Javascript Object Notation, is a method of writing data that is language-independent but uses conventions shared by many programming languages in order to be widely readable/writable. For this reason, JSON is considered a data-interchange language. 
 
-JSON is structured as a collection of name/value pairs enclosed in curly braces––just like a ruby hash! Values can be ordered lists––just like arrays! The data object in `spec/fixtures/contestants.json` that you'll be operating on looks and behaves just like a Ruby hash. You'll encounter JSON much more in the future if you scrape data from websites, get data from APIs, ord even building your own APIs. 
+JSON is structured as a collection of name/value pairs enclosed in curly braces––just like a ruby hash! Values can be ordered lists––just like arrays! The data object in `spec/fixtures/contestants.json` that you'll be operating on looks and behaves just like a Ruby hash. You'll encounter JSON much more in the future if you scrape data from websites, get data from APIs, or even building your own APIs. 
 
 
 
